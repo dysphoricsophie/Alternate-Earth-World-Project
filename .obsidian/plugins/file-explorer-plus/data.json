@@ -92,13 +92,6 @@
       {
         "name": "",
         "active": true,
-        "type": "FILES",
-        "pattern": "desktop.ini",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
         "type": "DIRECTORIES",
         "pattern": "Maps of Countries Wiki Style",
         "patternType": "STRICT"
