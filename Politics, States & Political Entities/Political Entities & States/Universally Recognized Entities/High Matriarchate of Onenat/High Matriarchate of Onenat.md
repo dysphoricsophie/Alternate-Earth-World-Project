@@ -1,0 +1,23 @@
+
+| ![[High Matriarchate of Onenat.png]] |
+| ------------------------------------ |
+
+|             **Political Ideology**              | **Major Assets**                                                                                                                        | Major Issues                                                                                                                |
+| :---------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| **Paternal Autocracy**<br>[Classical Feudalism] | - Untapped Natural Resources<br>- Uncontested Regional Power<br>- Nuclear Power<br>- The Einenbach Archives<br>- Weilerbach Collections | - Feudal Ownership System<br>- Lack of an education system<br>- Ineffective Bureaucracy<br>- Widespread Political Sterility |
+
+| Armed Branch    | Army                                                                                                                  | Navy                                                                                                                      | Airforce                                                                                                                                                                 | Special / Irregular Forces            | Nuclear Arsenal                                     |
+| --------------- | :-------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------- |
+| Composition     | - 72 Infantry Divisions<br>- 10 Mountain Infantry Divisions<br>- 8 Naval Infantry Divisions<br>- 24 Cavalry Divisions | - 62 Destroyers<br>- 80 Submarines<br>- 8 Aircraft Carriers<br>- 2 Helicopter Carriers<br>- 188 Frigates<br>- 25 Cruisers | - 16 Fighter Interceptor Squadrons<br>- 16 Close Air Support Squadrons<br>- 8 Naval Multirole Squadrons<br>- 8 Naval Bomber Squadrons<br>- 5 Supersonic Bomber Squadrons | - Several Irregular Militia Regiments | - 92 Thermonuclear Weapons<br>- 213 Nuclear Weapons |
+| Total Personel: |                                                                                                                       |                                                                                                                           |                                                                                                                                                                          |                                       |                                                     |
+
+| Division Template Name     | Division Regiments | Division Support Batallions |
+| -------------------------- | ------------------ | --------------------------- |
+| Infantry Division          |                    |                             |
+| Mountain Infantry Division |                    |                             |
+| Naval Infantry Division    |                    |                             |
+| Cavalry Division           |                    |                             |
+Being the only nation that still practices feudal ownership, the Onenat Matriarchate is truly a relic from an older time. The country appears to be lagging behind other world powers in technology and social development. It is the sickest man of them all. A nation with a nobility so greedy and wrathful that it could not even try to attenuate its grip on the poor feudal peasants.
+The lack of an educated population also means that Onenat faces challenges in finding and recruiting skilled personnel to operate the modern equipment required for warfare.
+These systemic issues prevent it from even performing the most basic of military operations. An example of which is the border skirmish that it lost against the far smaller and weaker Mungonian Nation a few years ago.
+This nation is neither the worst nor the best. Neither a world power nor a weak nation. Neither a home of the brave nor a land of the coward, a fascinating nation that should have stayed in its era.

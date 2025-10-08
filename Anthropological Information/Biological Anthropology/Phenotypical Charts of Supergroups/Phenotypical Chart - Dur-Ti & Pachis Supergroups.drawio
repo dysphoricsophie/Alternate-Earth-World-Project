@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="l2FQ2NywGcjmc1qxzdD2">
+    <mxGraphModel dx="4098" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-30" target="tHeY_RGfq0KXePXjdTbS-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="401" />
+              <mxPoint x="1120" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-30" target="tHeY_RGfq0KXePXjdTbS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="401" />
+              <mxPoint x="1900" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-30" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Navari Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~90,000–80,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Southern islands&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~135,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Descendants evolved into Dur-Ti and Pachis phenotypes; Navari as pure group largely historical by ~35,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Notes:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; Low sexual dimorphism reinforced by matrilineal maritime social structure.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Females selected for fine motor rowing skills&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="161" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-32" target="tHeY_RGfq0KXePXjdTbS-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="760" />
+              <mxPoint x="1900" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-32" target="tHeY_RGfq0KXePXjdTbS-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="720" />
+              <mxPoint x="2340" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-32" target="tHeY_RGfq0KXePXjdTbS-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="720" />
+              <mxPoint x="2780" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-32" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Northern Navari Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~38,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Northern continental shelf&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum: &lt;/b&gt;~5,000-7,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;Northern Navari features still persist in sparse populations along the southern areas&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;Early adaptation to temperate wind-driven sailing; matrilineal influence reinforced; fine motor skills in females become socially selected&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="481" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-33" target="tHeY_RGfq0KXePXjdTbS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="760" />
+              <mxPoint x="900" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-33" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Western Navari Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Origin Date:&lt;/b&gt;&amp;nbsp;~28,000 years ago&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Southern Morama Peninsula&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~4,000-6,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Descendants evolved into Dur-Ti and Pachis phenotypes; Navari as pure group largely historical by ~35,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Notes:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; Low sexual dimorphism reinforced by matrilineal maritime social structure.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Females selected for fine motor rowing skills&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="481" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-34" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Shushazid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~35,000 years ago (after southern migrators’ initial continental arrival)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Lake Shusha, temperate - tropical transitional zones&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum: &lt;/b&gt;~28,000,000 (peak sedentary riverine population)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Still extant; largely in lake core area&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes:&lt;/b&gt; Minimal admixture, low sexual dimorphism, riverine agricultural adaptations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="801" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-35" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Harazid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~32,500 years ago (spread along Haraz River)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region: &lt;/b&gt;Haraz river basin, floodplains&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum: &lt;/b&gt;~240,000,000 (wider distribution and admixture with southern Shushazids and Uhanids)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Still extant; some populations highly admixed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes:&lt;/b&gt; Phenotypic variation increases downstream; southern populations show subtle Uhanid features&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="801" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-36" target="tHeY_RGfq0KXePXjdTbS-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2780" y="1040" />
+              <mxPoint x="2300" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-36" target="tHeY_RGfq0KXePXjdTbS-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-36" target="tHeY_RGfq0KXePXjdTbS-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2780" y="1040" />
+              <mxPoint x="3180" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-36" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Uhanid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~34,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region: &lt;/b&gt;Uhan river basin &amp;amp; Flood Plains&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~30,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Still extant; northern populations remain distinct, southern blend with Shushazids&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;Clinal diversity along river; slight epicanthic fold and midface flattening southward&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="801" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-37" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Lirongid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~21,000 years ago (early Tumbanid subpopulation)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~6,000 - 8,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;Still extant; distinct rainforest adaptation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes:&lt;/b&gt; Lean mesomorphic; heat/humidity adaptations; minimal sexual dimorphism&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-38" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Eastern Bornid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin: &lt;/b&gt;~17,500 years ago (eastward remigration of Tumbanids)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region: &lt;/b&gt;Chuyan Coastline and eastern islands&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum: &lt;/b&gt;~35,000,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;Minimal admixture with Shushazid and Harazid groups along the Chuyan coastline&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;Coastal maritime lifestyle; slightly more exposure to tropical sunlight than western Bornids&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-39" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Swanzid&amp;nbsp;Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin: &lt;/b&gt;~21,000 years ago (highland adaptation)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region: &lt;/b&gt;Highlands of the Moraman Peninsula&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum: &lt;/b&gt;~50,000,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;L&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ow admixture with lowland groups&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;Highland pastoralism and agriculture; robust bone density&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="801" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-40" target="tHeY_RGfq0KXePXjdTbS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-40" target="tHeY_RGfq0KXePXjdTbS-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1040" />
+              <mxPoint x="460" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-40" target="tHeY_RGfq0KXePXjdTbS-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="1040" />
+              <mxPoint x="1340" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-40" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Tumbanid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin:&lt;/b&gt; ~22,000 years ago (continental plains)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Plains of the Moraman Peninsula&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~4,500,000-4,300,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;M&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px;&quot;&gt;inimal admixture; ancestral group for Bornid populations&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Cultural / Environmental Notes: &lt;/b&gt;Agricultural plains adaptation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="801" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-42" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Western Bornid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Origin: ~18,000 years ago (westward remigration of Tumbanids)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Region: Moshiel Cape and western coastal islands&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Population Maximum: ~65,000,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Extinction / Assimilation: I&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;solated but maintained minimal admixture with mainland Tumbanids&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Cultural / Environmental Notes: Coastal and maritime adaptations; dexterous for rowing and navigation&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tHeY_RGfq0KXePXjdTbS-33" target="tHeY_RGfq0KXePXjdTbS-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="760" />
+              <mxPoint x="1359" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-57" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Northern Uhanid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Origin: ~21,000 years ago (upper Uhan river source)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Cold-temperate to subarctic riverine zones,&amp;nbsp; mountainous river source regions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~80,800,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation: &lt;/b&gt;Still extant,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px;&quot;&gt;&amp;nbsp;populations remain mostly distinct&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;Adapted to colder water, shorter growing seasons; minimal admixture due to distance from other Dur-Ti groups&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-58" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Central Uhanid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin:&lt;/b&gt; ~23,500 years ago (mid-Uhan river)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&lt;/b&gt; Temperate riverine plains, moderate continental climate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~60,200,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt; Still extant; phenotypic integrity moderately maintained&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Notes: &lt;/b&gt;Central location facilitates interaction with southern Shushazids; some admixture with southward populations&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tHeY_RGfq0KXePXjdTbS-59" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Southern Uhanid Phenotype&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Origin Date:&lt;/b&gt; ~28,000 years ago&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Region:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Warm-temperate to subtropical river floodplains; fertile agricultural zones&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Population Maximum:&lt;/b&gt; ~150,000,000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Extinction / Assimilation:&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Significant admixture with southern Shushazids; phenotypic cline results in gradual Shushazid features appearing in the lower river populations&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clinal diversity along river; slight epicanthic fold and midface flattening southward.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;align=left;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="1080" width="360" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

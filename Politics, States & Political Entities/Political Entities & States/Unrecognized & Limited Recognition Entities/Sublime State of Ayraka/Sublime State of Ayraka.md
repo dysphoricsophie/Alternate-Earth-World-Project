@@ -1,0 +1,7 @@
+The state was taken over by the heretical armies of the Metvinese faith. They killed, captured and pillaged all they could from the unfaithful. Those who stood in front of their goals were made examples; they were hanged in the capital. No one would stop the true goals of Tavyrop, the heavenly avatar.
+
+Once the state and its apparatus were dealt with, it was quickly turned into an instrument of proselytisation of the Bhakh and Tavyropists. The crusade extended beyond the Ayrakan shores. Soon, the coastal regions of the Chenets Zhurakate and the Neo-Yelkan Zhurakate found themselves besieged by Metvinese crusading armies, looking to convert all to their only true faith.
+
+They believe that Tavyrop has returned and will not show itself unless all non-believers are converted or their souls given back to the Heavenly Avatar. Only then will he show himself in his true form and reward his followers and punish those who refused to believe. This is why they murder those who refuse to renounce their heretical beliefs.
+
+Ayraka is no longer a simple state; it is a bastion of Metvinese believers that would do anything to defend themselves, their faith, and find their god. Ayraka has transcended or devolved to a state of religious fervour in which politics and the regular feuds exist no more, as everyone’s energies are focused on the goal of finding the reincarnation of Tavyrop. This now makes two the number of Dark Heretical Cults sprouted by the Tavyrop faith.

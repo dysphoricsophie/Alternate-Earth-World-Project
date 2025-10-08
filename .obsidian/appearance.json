@@ -1,0 +1,25 @@
+{
+  "nativeMenus": false,
+  "showRibbon": true,
+  "accentColor": "#6f85b8",
+  "baseFontSize": 14,
+  "baseFontSizeAction": false,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "width",
+    "custom_callouts",
+    "table_worth_fixing",
+    "cum",
+    "dashboard",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "UI-tweaks",
+    "Wiki box",
+    "info-callout",
+    "ideas-callout",
+    "calendar",
+    "MyInfoboxes-clean-embeds"
+  ],
+  "showViewHeader": false
+}

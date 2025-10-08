@@ -1,0 +1,26 @@
+
+| ![[Chenets Zhurakate.png]] |
+| -------------------------- |
+
+|            **Political Ideology**             | **Major Assets**                                                                                                 | Major Issues                                                                                                        |
+| :-------------------------------------------: | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Paternal Autocracy**<br>[Absolute Monarchy] | - Succession Crisis Averted<br>- Dawn of a new Era under Dutesk rule<br>- Talks of a Regional Military Coalition | - Brutal Crusading Armies<br>- Lack of Investment to Ports and Coastal Areas<br>- Incursions from Northern Warlords |
+
+| Armed Branch    | Army                                                                                                                    | Navy         | Airforce                                                                                              | Special / Irregular Forces |
+| --------------- | :---------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------- | -------------------------- |
+| Composition     | - 14 Infantry Divisions<br>- 4 Armored Cavalry Divisions<br>- 2 Naval Infantry Divisions<br>- 8 Light Armored Divisions | - 6 Frigates | - 6 Fighter Interceptor Squadrons<br>- 4 Naval Multirole Squadrons<br>- 2 Close Air Support Squadrons |                            |
+| Total Personel: |                                                                                                                         |              |                                                                                                       |                            |
+
+| Division Template Name   | Division Regiments | Division Support Batallions |
+| ------------------------ | ------------------ | --------------------------- |
+| Infantry Division        |                    |                             |
+| Armored Cavalry Division |                    |                             |
+| Naval Infantry Division  |                    |                             |
+| Light Armored Division   |                    |                             |
+Originally, the Chenets Zhurakate was not even a Zhurakate. It began as a predominantly coastal but immensely powerful trade empire in the Crosutine Ocean, maintaining outposts as far west and north as the Luzborsk River in the Toprak Wetlands, and as far south and east as Vorozyr, today deep inside Ayrakan territory. But a series of disastrous wars with the Toprak Nomadic Hordes brought about the collapse of the First Chenets Empire, paving the way for the gradual encroachment of Ihrit and Berberan peoples into the Dutesk heartlands. Their nobility, wealthier, more influential, came to dominate political life, pushing aside the Dutesk-speaking Chenets and relegating their culture to a position of inferiority.
+
+Now, over 1500 years later, the people of the Chenets Zhurakate have not forgotten. They still carry the memory of a time before the northern conquest, before the rule of nomads and their foreign dynasties. Among many, there remains a quiet but stubborn longing for a Second Empire, for a rebirth under a leader of true Dutesk blood.
+
+That possibility now feels closer than it has in centuries. With the current Zhurak growing old and heirless, his decision to adopt a young man of fully Dutesk heritage has sent ripples through the court. The heir presumptive, by all accounts charismatic and tactically minded, is also rumored to be bisexual; an attribute once praised in ancient Dutesk society but long suppressed under the conservative influence of the Berberan and Ihrit elite.
+
+However, the new monarch will have to be going against various issues, some resulting from the rule of his adoptive father and some being outside threats. First of all, the lack of investment into the costal regions, which are mostly of Dutesk ancestry, causes the trade possibilities of the Zhurakate to be very narrow due to the lack of proper infrastructure to support larger ships. Second, the collapse of the Great Toprish Zhurakate has caused incursions from the various warlords and pretender zhuraks to be frequent and sometimes devastating for the affected area. Third and most important, due to the rise of a new heretical Metvinese Church, crusading armies from the new Sublime State of Ayraka have been attempting to invade from our shores. So far they have been unsuccessful but who know how long we will be able to hold them and their radical beliefs back. We must attempt to form a viable alliance with regional powers like the Neo-Yelkan Zhurakate and the Neremosh Zhurakate to help curb their armies and put an end to instability in the region.

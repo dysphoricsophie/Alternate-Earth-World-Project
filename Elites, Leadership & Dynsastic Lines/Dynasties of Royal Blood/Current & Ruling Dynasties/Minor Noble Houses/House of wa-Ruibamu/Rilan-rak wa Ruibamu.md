@@ -1,0 +1,1 @@
+-> see [this note](Great%20Zhurak,%20General%20Rilan-rak%20of%20wa%20Ruibamu.md) for General Rilan-rak wa Ruibamu

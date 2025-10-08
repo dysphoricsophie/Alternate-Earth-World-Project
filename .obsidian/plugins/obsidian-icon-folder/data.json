@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiThermometerSnowflake",
+      "LiHomepage",
+      "LiFlower2",
+      "LiMegaphone",
+      "LiFlaskConical",
+      "LiSun",
+      "RiPlantLine",
+      "LiAlarmClockCheck",
+      "OcHome24",
+      "LiAmphora"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Civilian Spaceflight & Exploration": "LiRocket",
+  "Languages & Writing Systems": "LiMegaphone",
+  "Historical Timelines & Events": "LiNewspaper",
+  "Elites, Leadership & Dynsastic Lines": "LiCrown",
+  "Religion, Mythology & Cults": "LiSun",
+  "Physical Geography & Geology": "LiMountain",
+  "Anthropological Information": "LiAmphora",
+  "Politics, States & Political Entities": "LiMap",
+  "Conspiracies & Revisionist History": "LiAlertTriangle",
+  "Technology & Research Dynamics": "LiFlaskConical",
+  "Climate & Biodiversity": "LiThermometerSnowflake"
+}

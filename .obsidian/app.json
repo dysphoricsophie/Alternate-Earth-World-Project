@@ -1,0 +1,15 @@
+{
+  "readableLineLength": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "showIndentGuide": true,
+  "defaultViewMode": "source",
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "REPOSITORY OF MISCELLANEOUS IMAGES",
+  "tabSize": 4
+}

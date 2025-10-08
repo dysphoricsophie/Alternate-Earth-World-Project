@@ -1,0 +1,129 @@
+{
+  "styles": {
+    "Homepage of Alternate Earth World - Worldbuilding Project.md": {
+      "isBold": true
+    },
+    "Ethnocultural Infomation": {
+      "textColor": "#775b85",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Ethnolinguistic Information": {
+      "textColor": "#866b93",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Aerospace Exploration Information": {
+      "textColor": "#6b4a79",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Geopolitical & Demographic Information": {
+      "textColor": "#926b80",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Historical Events & Conspiracy Theories": {
+      "textColor": "#9b7a83",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Personal & Dynastic Information": {
+      "textColor": "#a17a73",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "Phenotypic & Ethnic Information": {
+      "textColor": "#a7826f",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Religious & Mythical Information": {
+      "textColor": "#9a7b62",
+      "applyToSubfolders": true
+    },
+    "Technological & Development Information": {
+      "textColor": "#8e735b",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Topographic & Geographic Information": {
+      "textColor": "#7f6b53",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Homepage of Alternate Earth World.md": {
+      "backgroundColor": "#050505",
+      "textColor": "#c4c4c4",
+      "isBold": false
+    },
+    "Civilian Spaceflight & Exploration": {
+      "textColor": "#4b7faf",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "Technology & Innovation": {
+      "textColor": "#6b9b7a",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Politics, States & Political Entities": {
+      "textColor": "#af4b4b",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Elites, Leadership & Dynsastic Lines": {
+      "textColor": "#5c4baf",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Languages & Writing Systems": {
+      "textColor": "#9b4b97",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Historical Timelines & Events": {
+      "textColor": "#7b4baf",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Conspiracies & Revisionist History": {
+      "textColor": "#4b6faf",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Anthropological Information": {
+      "textColor": "#4b8baf",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Physical Geography & Geology": {
+      "textColor": "#af4b6b",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Religion, Mythology & Cults": {
+      "textColor": "#af7b4b",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Technology & Research Dynamics": {
+      "textColor": "#6b9b7a",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Flora, Fauna & Biodiversity": {
+      "textColor": "#5e50a5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Climate & Biodiversity": {
+      "textColor": "#466eb4"
+    },
+    "Dashboard.md": {
+      "isBold": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
